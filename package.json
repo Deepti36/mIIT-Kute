@@ -1,7 +1,7 @@
 {
   "name": "miit-kute",
   "version": "1.0.0",
-  "description": "Web-App for CS 253 Course Project",
+  "description": "Web-App",
   "main": "App.js",
   "scripts": {
     "start": "node app.js"
